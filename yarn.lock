@@ -1330,11 +1330,6 @@
   version "1.0.0"
   resolved "file:../ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz#55c8c8d4ee2055e511f9e1176f58f8e98e54f33a"
 
-"@ruttl/mobile-sdk@file:/Users/devam/Desktop/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz":
-  version "1.0.0"
-  uid "55c8c8d4ee2055e511f9e1176f58f8e98e54f33a"
-  resolved "file:/Users/devam/Desktop/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz#55c8c8d4ee2055e511f9e1176f58f8e98e54f33a"
-
 "@sinclair/typebox@^0.27.8":
   version "0.27.10"
   resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.27.10.tgz#beefe675f1853f73676aecc915b2bd2ac98c4fc6"
