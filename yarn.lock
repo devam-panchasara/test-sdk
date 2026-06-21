@@ -1328,12 +1328,7 @@
 
 "@ruttl/mobile-sdk@file:../ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz":
   version "1.0.0"
-  resolved "file:../ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz"
-  integrity sha512-728kcAGaHToN4/sa40WnesIDNB+yCG38GYBn9IZAE8Mu6asvS9gldz9216B0aDkwtXmPFB4rvT3vsBlkdLFtyQ==
-
-"@ruttl/mobile-sdk@file:/Users/devam/Desktop/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz":
-  version "1.0.0"
-  resolved "file:/Users/devam/Desktop/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz#e18eb6150365a0a88149ab675cf5e13061f13b8b"
+  resolved "file:../ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz#09ff2b9052d14a26c325c176ff3386883bd50589"
 
 "@sinclair/typebox@^0.27.8":
   version "0.27.10"
