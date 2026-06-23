@@ -48,7 +48,9 @@
     "android": "expo run:android",
     "ios": "expo run:ios",
     "web": "expo start --web",
-    "lint": "expo lint"
+    "lint": "expo lint",
+    "copy": "cp android/app/build/outputs/apk/release/app-release.apk ~/Desktop/",
+    "build": "cd android && ./gradlew assembleRelease && cd .. && yarn copy"
   },
   "private": true
 }
