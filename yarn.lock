@@ -1326,9 +1326,9 @@
     invariant "^2.2.4"
     nullthrows "^1.1.1"
 
-"@ruttl/mobile-sdk@file:./ruttl-mobile-sdk-1.0.0.tgz":
+"@ruttl/mobile-sdk@./ruttl-mobile-sdk-1.0.0.tgz":
   version "1.0.0"
-  resolved "file:./ruttl-mobile-sdk-1.0.0.tgz#60bb7d6995498b2fc884695814404d1578b50335"
+  resolved "./ruttl-mobile-sdk-1.0.0.tgz#0ebed0fe09ed71167a4ee5e5733aa909e42b570d"
   dependencies:
     lucide-react-native "^1.21.0"
 
