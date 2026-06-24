@@ -1051,7 +1051,7 @@ packages:
         optional: true
 
   '@ruttl/mobile-sdk@file:../ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz':
-    resolution: {integrity: sha512-Mhht/B8SDqKF63QhzDdZwMBivmaQrwNTsh1a9rfjQpy2FLf63w7W9GX9xRIcjuTffhD/vV3U0E9+QHnPBOGHfw==, tarball: file:../ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz}
+    resolution: {integrity: sha512-0J3KHtVFRUue+HMMhbvoacftLG51iqMVCZ51TIYx+bWy39kmde7iobVHuNUQNK+etf+oQY97IbrMfzbwbuvnPw==, tarball: file:../ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz}
     version: 1.0.0
     peerDependencies:
       '@react-native-async-storage/async-storage': '*'
@@ -2064,6 +2064,13 @@ packages:
 
   lru-cache@5.1.1:
     resolution: {integrity: sha512-KpNARQA3Iwv+jTA0utUVVbrh+Jlrr1Fv0e56GGzAFOXN7dk/FviaDW8LHmK52DlcH4WP2n6gI8vN1aesBFgo9w==}
+
+  lucide-react-native@1.21.0:
+    resolution: {integrity: sha512-kP5ZNvIPKDsdRz09GpB5rMC0uUwwF+yqUJZjRqLo0p+KRMu9mK6JavevxeHPSV0wbUGRLIZn+bGnf0d6Ufu8UQ==}
+    peerDependencies:
+      react: ^16.5.1 || ^17.0.0 || ^18.0.0 || ^19.0.0
+      react-native: '*'
+      react-native-svg: ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0
 
   lz-string@1.5.0:
     resolution: {integrity: sha512-h5bgJWpxJNswbU7qCrV0tIKQCaS3blPDrqKWx+QxzuzL1zGUzij9XCWLrSLsJPu5t+eWA/ycetzYAO5IOMcWAQ==}
@@ -4263,6 +4270,7 @@ snapshots:
       '@react-native-community/netinfo': 12.0.1(react-native@0.85.3(@babel/core@7.29.7)(@react-native/metro-config@0.85.3(@babel/core@7.29.7))(@types/react@19.2.17)(react@19.2.3))(react@19.2.3)
       expo-constants: 56.0.18(expo@56.0.12)(react-native@0.85.3(@babel/core@7.29.7)(@react-native/metro-config@0.85.3(@babel/core@7.29.7))(@types/react@19.2.17)(react@19.2.3))
       expo-file-system: 56.0.8(expo@56.0.12)(react-native@0.85.3(@babel/core@7.29.7)(@react-native/metro-config@0.85.3(@babel/core@7.29.7))(@types/react@19.2.17)(react@19.2.3))
+      lucide-react-native: 1.21.0(react-native-svg@15.15.5(react-native@0.85.3(@babel/core@7.29.7)(@react-native/metro-config@0.85.3(@babel/core@7.29.7))(@types/react@19.2.17)(react@19.2.3))(react@19.2.3))(react-native@0.85.3(@babel/core@7.29.7)(@react-native/metro-config@0.85.3(@babel/core@7.29.7))(@types/react@19.2.17)(react@19.2.3))(react@19.2.3)
       react: 19.2.3
       react-native: 0.85.3(@babel/core@7.29.7)(@react-native/metro-config@0.85.3(@babel/core@7.29.7))(@types/react@19.2.17)(react@19.2.3)
       react-native-calendars: 1.1314.0(react-native@0.85.3(@babel/core@7.29.7)(@react-native/metro-config@0.85.3(@babel/core@7.29.7))(@types/react@19.2.17)(react@19.2.3))(react@19.2.3)
@@ -5289,6 +5297,12 @@ snapshots:
   lru-cache@5.1.1:
     dependencies:
       yallist: 3.1.1
+
+  lucide-react-native@1.21.0(react-native-svg@15.15.5(react-native@0.85.3(@babel/core@7.29.7)(@react-native/metro-config@0.85.3(@babel/core@7.29.7))(@types/react@19.2.17)(react@19.2.3))(react@19.2.3))(react-native@0.85.3(@babel/core@7.29.7)(@react-native/metro-config@0.85.3(@babel/core@7.29.7))(@types/react@19.2.17)(react@19.2.3))(react@19.2.3):
+    dependencies:
+      react: 19.2.3
+      react-native: 0.85.3(@babel/core@7.29.7)(@react-native/metro-config@0.85.3(@babel/core@7.29.7))(@types/react@19.2.17)(react@19.2.3)
+      react-native-svg: 15.15.5(react-native@0.85.3(@babel/core@7.29.7)(@react-native/metro-config@0.85.3(@babel/core@7.29.7))(@types/react@19.2.17)(react@19.2.3))(react@19.2.3)
 
   lz-string@1.5.0: {}
 
