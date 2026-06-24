@@ -50,7 +50,7 @@
     "web": "expo start --web",
     "lint": "expo lint",
     "copy": "cp android/app/build/outputs/apk/release/app-release.apk ~/Desktop/",
-    "build": "cd android && ./gradlew assembleRelease && cd .. && yarn copy"
+    "build": "rm -rf android/app/build/generated && cd android && ./gradlew assembleRelease && cd .. && yarn copy"
   },
   "private": true
 }
