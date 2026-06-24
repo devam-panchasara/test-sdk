@@ -1051,7 +1051,7 @@ packages:
         optional: true
 
   '@ruttl/mobile-sdk@file:../ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz':
-    resolution: {integrity: sha512-0J3KHtVFRUue+HMMhbvoacftLG51iqMVCZ51TIYx+bWy39kmde7iobVHuNUQNK+etf+oQY97IbrMfzbwbuvnPw==, tarball: file:../ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz}
+    resolution: {integrity: sha512-BNzmIKj9kiQMEp/3WtPa3J/TFVuithOYpnpbDbV6wpbUFbgQNNoyueVvt2U4lNL4tg+HKDcdFzs4iNmtedG1Xw==, tarball: file:../ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz}
     version: 1.0.0
     peerDependencies:
       '@react-native-async-storage/async-storage': '*'
