@@ -1406,10 +1406,10 @@
     invariant "^2.2.4"
     nullthrows "^1.1.1"
 
-"@ruttl/mobile-sdk@file:/Users/devam/Desktop/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz":
-  version "1.0.0"
-  resolved "file:../ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-1.0.0.tgz"
-  integrity sha512-2lHpokAKA9z42s1HrebiqPL+QaGOwQhXKEUMK7bl2HIKwbHO97kMfyXWv4uzX/DNkB5nAANWCZH1kJAW56ebxg==
+"@ruttl/mobile-sdk@file:/Users/devam/Desktop/ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-2.0.0.tgz":
+  version "2.0.0"
+  resolved "file:../ruttl-v3/packages/mobile-sdk/ruttl-mobile-sdk-2.0.0.tgz"
+  integrity sha512-dTN0sLSiT3Z2ddi0INkK6jfhibptjo1I1RDCrr3gsTntKRBJsskutyDkht2qcnzNi1+ny0+gFmmsFA9vuyfjTA==
   dependencies:
     lucide-react-native "^1.21.0"
 
